@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //
 import java.awt.event.KeyEvent;
 import java.io.BufferedReader;
@@ -2303,3 +2304,6 @@ else
 	///////////////////////////
 
 }
+=======
+//asd
+>>>>>>> 0dad3579e9724a1603a96e38900498c66b6c25a7
