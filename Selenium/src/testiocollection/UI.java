@@ -2,7 +2,7 @@ lReport.create_RowData();
 				}
 				break;
 
-			case "DELETE_FILES":
+			//case "DELETE_FILES":
 
 				File folder3 = new File(RunClass.DownloadFilePath);
 				File[] listOfFiles3 =folder3.listFiles();
