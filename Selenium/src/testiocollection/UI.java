@@ -5,7 +5,7 @@ lReport.create_RowData();
 			case "DELETE_FILES":
 
 				File folder3 = new File(RunClass.DownloadFilePath);
-				File[] listOfFiles3 = folder3.listFiles();
+				File[] listOfFiles3 =folder3.listFiles();
 
 				for (int i = 0; i < listOfFiles3.length; i++) {
 					if (listOfFiles3[i].isFile()) {
