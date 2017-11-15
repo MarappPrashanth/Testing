@@ -1,8 +1,6 @@
-lReport.create_RowData();
-				}
-				break;
+asa
 
-			//case "DELETE_FILES":
+			case "DELETE_FILES":
 
 				File folder3 = new File(RunClass.DownloadFilePath);
 				File[] listOfFiles3 =folder3.listFiles();
@@ -1797,6 +1795,7 @@ else
 	///////////////////////////
 
 }
+
 =======
 //asd
 >>>>>>> 0dad3579e9724a1603a96e38900498c66b6c25a7
