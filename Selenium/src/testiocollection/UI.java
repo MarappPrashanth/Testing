@@ -1,5 +1,5 @@
 asa
-
+[[]\[]]
 			case "DELETE_FILES":
 
 				File folder3 = new File(RunClass.DownloadFilePath);
